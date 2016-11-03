@@ -1,0 +1,11 @@
+Procedures:
+1. open terminal
+2. start cloning (copy the link in the classroom and enter your network user name and password, and also your github username and the name of the repository)
+3. type "cd" and the name of the repository you want to place the work in
+4. type "gedit" space and the name of the file you want to create
+5. add and edit your work in the document that popped up
+6. Save the file (make sure there is no * infront of the name of the file)
+7. close the file
+8. type "git add" and the name of the previous file in the terminal
+9. type "git commit -m" and add any messages in quotation marks
+10. type "git push" once you're done
