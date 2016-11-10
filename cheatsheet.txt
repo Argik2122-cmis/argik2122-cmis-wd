@@ -1,5 +1,5 @@
 Terminal Commands
-
+pwd show where you are
 ls <directory name>:  List contents of a directory
 cd: Go home.
 cd <directory name>:  Change directory
@@ -18,3 +18,14 @@ Html Basics
 
 python -m SimpleHTTPServer (to start the development server)
 type localhost:8000 
+
+Press "control D" to exit of the sftp
+Sftp: sftp argik2122@hsteacher
+make sure you are in your repository folder 
+publish folder to public folder by: 
+1) access sftp
+2) cd public_html
+3) one you are in that folder, type "put" and the name of the document
+To view the quiz in google: http://cmis-hsteacher/~argik2122/quiz.html
+
+
