@@ -20,7 +20,7 @@ python -m SimpleHTTPServer (to start the development server)
 type localhost:8000 
 
 Press "control D" to exit of the sftp
-Sftp: sftp argik2122@hsteacher
+Sftp: sftp argik2122@cmis-hsteacher
 make sure you are in your repository folder 
 publish folder to public folder by: 
 1) access sftp
