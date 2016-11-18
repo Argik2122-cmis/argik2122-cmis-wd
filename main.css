@@ -1,22 +1,37 @@
 html {
-	color: 
-	background-color:
+	color:#202020;
+	background-color:#FFFFE0;
+	border: solid 1px #202020; 
 }
-
+	
 main {
-	background-color:
+	color:#202020;
+	background-color:#FFFFE0;
+	font-family:Verdana;
+	font-size:18px;
 }
 
 p {
-	color:
-	background-color:
+	color:#202020;
+	background-color: #FFFFE0;
+	font-family:Verdana;
+	font-size:18px;
 }
 
 h1{
-	background-color:
+	color: #202020;
+	background-color: #d147a3;
+	font-family:Verdana;
+	font-size:40px;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: #202020;
 }
 
 h2{
-	background-color:
+	color:#202020;
+	background-color:#FFFFE0; 
+	font-family:Verdana;
+	font-size: 25px;
 }
 
