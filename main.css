@@ -9,18 +9,23 @@ main {
 	background-color:#FFFFE0;
 	font-family:Verdana;
 	font-size:18px;
+	margin-bottom: 2cm;
 }
 
 p {
 	color:#202020;
 	background-color: #FFFFE0;
+	border: 3px solid #FFFFE0;
+	outline-style:dotted;
+	outline-color:#FD6163;
 	font-family:Verdana;
 	font-size:18px;
+	margin-top: 1cm;
 }
 
 h1{
-	color: #202020;
-	background-color: #d147a3;
+	color: #663399;
+	background-color: #FB8ABB;
 	font-family:Verdana;
 	font-size:40px;
 	text-align: center;
@@ -29,9 +34,20 @@ h1{
 }
 
 h2{
-	color:#202020;
-	background-color:#FFFFE0; 
+	color:#FD6163;
+	background-color:#FFCCCC; 
 	font-family:Verdana;
 	font-size: 25px;
+	border-bottom: dotted; 
+	border-color: #FFFFE0;
+	border-top: dotted;
+	border-color: #FFFFE0;
+	border-right:dotted;
+	border-color: #FFFFE0;
+	border-left: dotted;
+	border-color:#FFFFE0;
+	margin-top: 1cm;
 }
+
+
 
