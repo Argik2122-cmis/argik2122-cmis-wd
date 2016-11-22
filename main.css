@@ -2,6 +2,8 @@ html {
 	color:#202020;
 	background-color:#FFFFE0;
 	border: solid 1px #202020; 
+	border-radius: 25px
+	
 }
 	
 main {
@@ -31,6 +33,8 @@ h1{
 	text-align: center;
 	text-decoration: underline;
 	text-decoration-color: #202020;
+	text-shadow: 2px 2px #FFFFCC;
+	text-transform: capitalize;
 }
 
 h2{
@@ -39,15 +43,17 @@ h2{
 	font-family:Verdana;
 	font-size: 25px;
 	border-bottom: dotted; 
-	border-color: #FFFFE0;
+	border-bottom-color: #FFFFE0;
 	border-top: dotted;
-	border-color: #FFFFE0;
+	border-top-color: #FFFFE0;
 	border-right:dotted;
-	border-color: #FFFFE0;
+	border-right-color:#FFFFE0;
 	border-left: dotted;
-	border-color:#FFFFE0;
+	border-left-color:#FFFFE0;
 	margin-top: 1cm;
 }
+
+
 
 
 
