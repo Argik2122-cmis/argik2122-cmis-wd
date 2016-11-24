@@ -1,0 +1,39 @@
+html {
+	color:
+	background-color: light pink; 
+	border-left: dotted;
+	border-left-color: red;
+	
+
+}
+	
+main {
+	border: solid 2px;
+	border-color: yellow;
+}
+
+p {
+	color:	purple;
+	background-color: light pink;
+	border-top: dotted 1px;
+	border-top-color: green
+}
+
+h1{
+	color: red;
+	background-color: light blue; 
+	border-bottom: underline 3px;
+	
+}
+
+h2{
+	color: white;
+	background-color:blue;
+	font-family: Times New Roman;	
+}
+
+footer{
+	color: purple;
+	font-family: Times New Roman;	
+}
+
