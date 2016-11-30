@@ -21,9 +21,13 @@ View your index.html in the production server.*/
 /*1)color 2)background-color 3)border 4)border-radius 5)font-size 6)font-family 7)margin-bottom 8)outline-style 9)outline-color 10)text-align 11)text-decoration 12)text-decoration-color 13)text-shadow 14)text-transform 15)border-bottom 16)border-bottom-color*/
 
 
+What I learned (from my classmate)
+Pat: Opacity,padding, and direction 
+Warit: transform, min-width
+
 html {
 	color:#202020;
-	background-color:#FFFFE0;
+	background-color:
 	border: solid 1px #202020; 
 	border-radius: 25px
 	
