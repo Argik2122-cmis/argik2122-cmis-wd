@@ -16,9 +16,9 @@ Go learn something from 2 classmates; add a comment to your main.css file that d
 *Validate your main.css file.
 *Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 Upload to the production server with sftp.
-View your index.html in the production server.*/
+View your index.html in the production server.
 
-/*1)color 2)background-color 3)border 4)border-radius 5)font-size 6)font-family 7)margin-bottom 8)outline-style 9)outline-color 10)text-align 11)text-decoration 12)text-decoration-color 13)text-shadow 14)text-transform 15)border-bottom 16)border-bottom-color*/
+1)color 2)background-color 3)border 4)border-radius 5)font-size 6)font-family 7)margin-bottom 8)outline-style 9)outline-color 10)text-align 11)text-decoration 12)text-decoration-color 13)text-shadow 14)text-transform 15)border-bottom 16)border-bottom-color 17)opacity 18)padding 19)font-weight 20)min-height*/
 
 
 /*What I learned (from my classmate)
@@ -27,7 +27,7 @@ Warit: transform, min-width*/
 
 html {
 	color:#202020;
-	background-color:
+	background-color: #FFFFE0;
 	border: solid 1px #202020; 
 	border-radius: 25px
 	
@@ -49,6 +49,7 @@ p {
 	outline-color:#FD6163;
 	font-family:Verdana;
 	font-size:18px;
+	min-height: 20px;
 	margin-top: 1cm;
 }
 
@@ -63,6 +64,7 @@ h1{
 	text-decoration-color: #202020;
 	text-shadow: 2px 2px #FFFFCC;
 	text-transform: capitalize;
+	padding-top: 10px
 }
 
 h2{
@@ -70,6 +72,7 @@ h2{
 	background-color:#FFCCCC; 
 	font-family:Verdana;
 	font-size: 25px;
+	font-weight: bold;
 	border-bottom: dotted; 
 	border-bottom-color: #FFFFE0;
 	border-top: dotted;
