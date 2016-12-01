@@ -28,4 +28,17 @@ publish folder to public folder by:
 3) one you are in that folder, type "put" and the name of the document
 To view the quiz in google: http://cmis-hsteacher/~argik2122/quiz.html
 
+Development server: In order to view a certain file on the development server, type "localhost" / name of the file
+Production server: sftp
+
+list and links:
+An ordered list:<ol>
+		 <li>   </li>
+		<li>    </li>
+		</ol>
+
+Unordered list: <ul>
+		
+		</ul>
+
 
