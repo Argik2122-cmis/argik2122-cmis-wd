@@ -1,0 +1,54 @@
+html{
+	background-color:#FF0000;	
+	padding-left: 12cm;
+	padding-right: 12cm;
+	padding-bottom:4cm;
+}
+
+body{
+	background-color:	#FFFFFF;
+	
+}
+
+header {
+	background-color:	#0000FF;
+
+}
+
+main {
+	
+}
+
+footer {
+	
+	background-color: #0000FF;
+	color:#FFFF00;
+	text-decoration:none;
+}
+h1 {
+	
+	color:	#FFFF00;
+	
+	
+	
+}
+h2 {
+	
+}
+h3 {
+	color:#FFFFFF;
+	
+	
+}
+h4{
+	
+}
+p {
+	text-decoration: underline;
+	border-right:dotted 70px;
+	border-color: 	#008000;
+	padding-top:
+}
+ol {
+	border: dotted;
+}
