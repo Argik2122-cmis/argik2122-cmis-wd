@@ -33,7 +33,7 @@ html {
 	
 }
 	
-main {
+main, p {
 	color:#202020;
 	background-color:#FFFFE0;
 	font-family:Verdana;
@@ -53,7 +53,7 @@ p {
 	margin-top: 1cm;
 }
 
-h1{
+h1, h2{
 	color: #663399;
 	opacity: 0.9;
 	background-color: #FB8ABB;
@@ -84,7 +84,24 @@ h2{
 	margin-top: 1cm;
 }
 
+ul{
+	border: 5px ridge;
+	border-color: #FB8ABB;
+	margin: 30px;
+	padding: 25px;
+	width: 1450px;
+	height: 350px;
+}
 
+ol{
+	border: ridge 5px; 
+	border-color:#FB8ABB;
+	margin: 15px;
+	padding:40px;
+	width: 1450px;
+	height:500px; 
+
+}
 
 
 
