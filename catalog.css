@@ -1,21 +1,38 @@
 html {
 	text-align: center;
 	font-family: verdana;
-	background-color:#77C2CC;
-	color: 
-	
+	background-color: #BBEF73;
+	padding-top: 10px;
 }
 
 body {
+	background-color:#FFFFC2;
+	padding-right: 3cm;
+	padding-left: 3cm;
+}
+
+article {
+	background-color: #AEFBFB;
 	
 }
 
-header {
-	
-	
+h1 h2 {
+	color:#D20A47;
+	text-decoration: underline;
+	text-decoration-color:#D20A47;
+	padding-top: 1cm;
 }
 
+h2{
+	color:#D20A47;
+}
+	
+	
+	
 main {
+	border-style: dashed;
+	border-color: #FFA738;
+	border-width: 10px;
 	
 }
 
@@ -23,21 +40,28 @@ h1 {
 	color: #3E1078;
 	text-shadow: 2px 2px #FFFFCC;
 	background-color: #04A3A3;
-	
-	
-	
-h2 {
-	
+
 }
 
+p, ul { 
+	color:#D20A47;
+	background-color: #FDFF9F;
+	margin-bottom: 1cm;
 	
-p {
 	
-}
-footer {
-	
-}
-ul{
 		
+}
 
+nav {
+	margin-bottom: 1cm;
+}
+
+footer{
+	color: #3E1078;
+	margin-top: 1cm;
+}
+
+img{ 
+	border:solid 5px;
+	border-color: #BBEF73;
 }
